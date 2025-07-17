@@ -1,12 +1,9 @@
-## Project Course
-
-**Detailed Video/Walkthrough Course (Free):** [techiescamp.com/courses/deploying-jenkins-aws/](https://techiescamp.com/p/project-jenkins-ha-setup-on-aws-terraform-ansible-packer)
+## Project Course : Jenkins High Availability using Autoscaling and EFS
 
 ## Setup Architecture 
 
-![jenkins-ha](https://user-images.githubusercontent.com/106984297/226690774-66731923-a2cd-45cc-b387-c959e5b713c1.png)
-
+![Jenkins-Project-Architecture](https://github.com/user-attachments/assets/7da3b4ff-78c3-48ca-82ec-355710e4546e)
 
 ## Project Documentation.
 
-Refer [Jenkins Setup Using AWS Autoscaling Group](https://devopscube.com/jenkins-autoscaling-setup/) for the entire setup walkthrough.
+
