@@ -1,9 +1,11 @@
 provider "aws" {
-  region = "us-west-2"
+access_key = ""
+secret_key = ""  
+region = "us-east-2"
 }
 
 module "efs_module" {
   source = "../modules/efs"
-  vpc_id     = "vpc-0872a2ffd55e763ca"
-  subnet_ids = ["subnet-046c3f4390fc51b7e", "subnet-02727435b393c516c", "subnet-0ed1c80066f1be7ed"]
+  vpc_id     = "vpc-06a67a02f7751403c"
+  subnet_ids = ["subnet-0b6af0e022eb240c8", "subnet-0cc23a398fb45cbca", "subnet-0952a7bbcf1464430"]
 }
